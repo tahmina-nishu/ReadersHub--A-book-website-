@@ -1,0 +1,242 @@
+[
+{
+    "id": 1,
+    "image": "https://th.bing.com/th/id/OIP.jkOttTP5AdWtfiHpT8u-xQHaJ4?w=131&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "rating": 4.8,
+    "link": "https://bookmate.com/books/EnddbPfk"
+},
+{
+    "id": 2,
+    "image": "/images/pdf2.jpg",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "rating": 4.5,
+    "link": "https://example.com/moby-dick.pdf"
+},
+{
+    "id": 3,
+    "image": "/images/pdf3.jpg",
+    "title": "1984",
+    "author": "George Orwell",
+    "rating": 4.9,
+    "link": "https://example.com/1984.pdf"
+},
+{
+    "id": 4,
+    "image": "/images/pdf4.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": 4.7,
+    "link": "https://example.com/to-kill-mockingbird.pdf"
+},
+{
+    "id": 5,
+    "image": "/images/pdf5.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": 4.6,
+    "link": "https://example.com/great-gatsby.pdf"
+},
+{
+    "id": 6,
+    "image": "/images/pdf6.jpg",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "rating": 4.4,
+    "link": "https://example.com/war-and-peace.pdf"
+},
+{
+    "id": 7,
+    "image": "/images/pdf7.jpg",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "rating": 4.7,
+    "link": "https://example.com/crime-punishment.pdf"
+},
+{
+    "id": 8,
+    "image": "/images/pdf8.jpg",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "rating": 4.3,
+    "link": "https://example.com/catcher-rye.pdf"
+},
+{
+    "id": 9,
+    "image": "/images/pdf9.jpg",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "rating": 4.5,
+    "link": "https://example.com/brave-new-world.pdf"
+},
+{
+    "id": 10,
+    "image": "/images/pdf10.jpg",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": 4.8,
+    "link": "https://example.com/the-hobbit.pdf"
+},
+{
+    "id": 11,
+    "image": "/images/pdf11.jpg",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "rating": 4.6,
+    "link": "https://example.com/fahrenheit-451.pdf"
+},
+{
+    "id": 12,
+    "image": "/images/pdf12.jpg",
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "rating": 4.7,
+    "link": "https://example.com/jane-eyre.pdf"
+},
+{
+    "id": 13,
+    "image": "/images/pdf13.jpg",
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "rating": 4.5,
+    "link": "https://example.com/wuthering-heights.pdf"
+},
+{
+    "id": 14,
+    "image": "/images/pdf14.jpg",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "rating": 4.6,
+    "link": "https://example.com/the-odyssey.pdf"
+},
+{
+    "id": 15,
+    "image": "/images/pdf15.jpg",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "rating": 4.4,
+    "link": "https://example.com/frankenstein.pdf"
+},
+{
+    "id": 16,
+    "image": "/images/pdf16.jpg",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "rating": 4.5,
+    "link": "https://example.com/dracula.pdf"
+},
+{
+    "id": 17,
+    "image": "/images/pdf17.jpg",
+    "title": "The Iliad",
+    "author": "Homer",
+    "rating": 4.6,
+    "link": "https://example.com/the-iliad.pdf"
+},
+{
+    "id": 18,
+    "image": "/images/pdf18.jpg",
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "rating": 4.7,
+    "link": "https://example.com/les-miserables.pdf"
+},
+{
+    "id": 19,
+    "image": "/images/pdf19.jpg",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "rating": 4.6,
+    "link": "https://example.com/anna-karenina.pdf"
+},
+{
+    "id": 20,
+    "image": "/images/pdf20.jpg",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "rating": 4.8,
+    "link": "https://example.com/brothers-karamazov.pdf"
+},
+{
+    "id": 21,
+    "image": "/images/pdf21.jpg",
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "rating": 4.5,
+    "link": "https://example.com/great-expectations.pdf"
+},
+{
+    "id": 22,
+    "image": "/images/pdf22.jpg",
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "rating": 4.4,
+    "link": "https://example.com/tale-two-cities.pdf"
+},
+{
+    "id": 23,
+    "image": "/images/pdf23.jpg",
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "rating": 4.6,
+    "link": "https://example.com/don-quixote.pdf"
+},
+{
+    "id": 24,
+    "image": "/images/pdf24.jpg",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "rating": 4.7,
+    "link": "https://example.com/meditations.pdf"
+},
+{
+    "id": 25,
+    "image": "/images/pdf25.jpg",
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "rating": 4.6,
+    "link": "https://example.com/siddhartha.pdf"
+},
+{
+    "id": 26,
+    "image": "/images/pdf26.jpg",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "rating": 4.8,
+    "link": "https://example.com/the-alchemist.pdf"
+},
+{
+    "id": 27,
+    "image": "/images/pdf27.jpg",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "rating": 4.9,
+    "link": "https://example.com/little-prince.pdf"
+},
+{
+    "id": 28,
+    "image": "/images/pdf28.jpg",
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "rating": 4.6,
+    "link": "https://example.com/divine-comedy.pdf"
+},
+{
+    "id": 29,
+    "image": "/images/pdf29.jpg",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "rating": 4.8,
+    "link": "https://example.com/hamlet.pdf"
+},
+{
+    "id": 30,
+    "image": "/images/pdf30.jpg",
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "rating": 4.7,
+    "link": "https://example.com/macbeth.pdf"
+}
+]

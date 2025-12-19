@@ -1,0 +1,302 @@
+[
+    {
+        "id": 31,
+        "image": "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/2fb2e055-d962-4a66-ba77-0bd860a97898/1978255263/atomic-habits-by-james-clear-screenshot.png",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": 12.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "A powerful guide that explains how small, incremental habits can bring massive long-term improvements. The book focuses on building systems rather than goals and teaches practical methods like habit stacking and environment design. James Clear combines scientific research with real-life stories to show how good habits can be formed and bad ones eliminated. It is one of the most influential self-development books of modern times."
+    },
+    {
+        "id": 32,
+        "image": "https://www.upaharbazar.com/wp-content/uploads/2023/08/The-7-Habits-of-highly-effective-people.jpg",
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "price": 10.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "This book explains the science behind how habits work, why they exist, and how they can be changed. Duhigg introduces the Habit Loop—cue, routine, reward—and shows how understanding this pattern can transform both personal behavior and organizational performance. Through engaging stories and research, the author reveals how habits shape our life and how mastering them leads to lasting success. A life-changing read for anyone seeking behavior transformation."
+    },
+    {
+        "id": 33,
+        "image": "https://cdn.kobo.com/book-images/685e0632-a7f9-4661-bbea-116a03a9aea9/1200/1200/False/deep-work-2.jpg",
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "price": 14.99,
+        "rating": 4.6,
+        "availability": "Out of Stock",
+        "details": "Cal Newport argues that deep, focused work is the key to mastering complicated tasks and producing high-quality results in today’s distracted world. He explains the difference between deep work and shallow work and provides practical strategies to cultivate focus. The book highlights how embracing deep work leads to professional growth, creativity, and meaningful productivity. It is essential reading for students, professionals, and creators seeking concentration and discipline."
+    },
+    {
+        "id": 34,
+        "image": "https://cdn2.penguin.com.au/covers/original/9780141033570.jpg",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "price": 15.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "Daniel Kahneman explores the two systems of thinking that drive human decisions—fast, intuitive thinking and slow, analytical thinking. Through fascinating experiments and insights, he reveals the biases and errors in our judgment. The book explains how understanding these mental processes can improve decision-making in daily life, business, and personal choices. It is a groundbreaking work at the intersection of psychology and economics."
+    },
+    {
+        "id": 35,
+        "image": "https://th.bing.com/th/id/OIP.15gtk8MaCEe1FEV28CaNsAHaLQ?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Educated",
+        "author": "Tara Westover",
+        "price": 13.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "A powerful memoir about a woman who grows up in a strict and abusive survivalist family with no formal education. Tara Westover eventually escapes through learning, self-discovery, and a thirst for knowledge. The book portrays resilience, family conflict, and the transformative power of education. It is an inspiring story of courage and determination against all odds."
+    },
+    {
+        "id": 36,
+        "image": "https://th.bing.com/th/id/OIP.e__NEYvJpiqMPy4lAR_zHgHaLQ?w=124&h=189&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "price": 16.99,
+        "rating": 4.9,
+        "availability": "Out of Stock",
+        "details": "Michelle Obama shares her childhood, career journey, and experiences as the First Lady of the United States. The memoir highlights her struggles, achievements, and dedication to public service. Through honest reflections, she reveals how she found her voice and identity. The book inspires readers to embrace their own story and pursue meaningful change in the world."
+    },
+    {
+        "id": 37,
+        "image": "https://th.bing.com/th/id/OIP.FIsastskOHJ9TS8mHkA8xQHaLe?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Mindset: The New Psychology of Success",
+        "author": "Carol S. Dweck",
+        "price": 12.49,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "Carol S. Dweck explores the powerful concept of fixed and growth mindsets, showing how our beliefs shape our success. She explains how adopting a growth mindset can transform the way we learn, face challenges, and achieve goals. Packed with real-life examples, this book inspires readers to develop resilience, embrace effort, and unlock their full potential in life, work, and relationships."
+    },
+    {
+        "id": 38,
+        "image": "https://th.bing.com/th/id/OIP.dxGs91Cx7hX2yGJJEvisrAHaLL?w=186&h=281&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Grit",
+        "author": "Angela Duckworth",
+        "price": 12.49,
+        "rating": 4.6,
+        "availability": "In Stock",
+        "details": "Angela Duckworth explains that success is not just about talent but about passion and perseverance—known as grit. The book uses scientific research, real-life examples, and personal stories to show how sustained effort leads to achievement. It encourages readers to stay committed even when challenges arise. A motivating guide for students, professionals, and dreamers."
+    },
+    {
+        "id": 39,
+        "image": "https://th.bing.com/th/id/OIP.eBVJ4oS02nNrMFJLc_tT1AHaLP?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Dare to Lead",
+        "author": "Brené Brown",
+        "price": 13.49,
+        "rating": 4.7,
+        "availability": "Out of Stock",
+        "details": "Brené Brown explores the importance of courage, vulnerability, and empathy in effective leadership. She challenges the traditional idea that leaders must appear strong and flawless. Instead, she shows that real leadership comes from honesty, trust, and human connection. The book offers tools to build brave workplaces and supportive team cultures."
+    },
+    {
+        "id": 40,
+        "image": "https://th.bing.com/th/id/OIP.p5-Q3x_6V1l-tXxd1T2bmAHaLY?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "Start with Why",
+        "author": "Simon Sinek",
+        "price": 10.99,
+        "rating": 4.6,
+        "availability": "In Stock",
+        "details": "Simon Sinek explains why some leaders and organizations inspire more loyalty and success—they start with 'why'. By understanding the deeper purpose behind actions, individuals can motivate both themselves and others. The book includes compelling examples from business and history. It is a must-read for entrepreneurs, leaders, and anyone seeking meaningful direction."
+    },
+    {
+        "id": 41,
+        "image": "https://th.bing.com/th/id/OIP.QggzrujRvF1y17wddhq4lgHaLg?w=186&h=289&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "price": 13.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "Dale Carnegie’s timeless guide teaches powerful communication skills, emotional intelligence, and relationship-building techniques that help people succeed in both personal and professional life. Through practical examples and human psychology insights, the book shows how to make people feel valued, resolve conflicts, and positively influence others. It remains one of the most impactful self-development books ever written."
+    },
+    {
+        "id": 42,
+        "image": "/images/sale12.jpg",
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "price": 12.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "Eric Ries introduces startup principles based on rapid experimentation, customer feedback, and iterative development. He emphasizes building minimum viable products (MVPs) and learning through small, validated steps. The book reshapes how modern companies innovate and grow. It is essential reading for entrepreneurs, founders, and innovators."
+    },
+    {
+        "id": 43,
+        "image": "/images/sale13.jpg",
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "price": 11.99,
+        "rating": 4.6,
+        "availability": "Out of Stock",
+        "details": "Peter Thiel explains how true innovation comes from creating something entirely new rather than copying existing ideas. The book explores the mindset required to build world-changing startups. Thiel shares lessons from his own entrepreneurial journey and Silicon Valley experience. A bold and thought-provoking guide for future creators."
+    },
+    {
+        "id": 44,
+        "image": "/images/sale14.jpg",
+        "title": "Hooked",
+        "author": "Nir Eyal",
+        "price": 13.49,
+        "rating": 4.5,
+        "availability": "In Stock",
+        "details": "Nir Eyal breaks down the psychological triggers used to build habit-forming products. Using the Hook Model—trigger, action, reward, and investment—he explains how companies keep users engaged. The book is ideal for product designers, developers, and entrepreneurs. It offers ethical insights into creating meaningful digital experiences."
+    },
+    {
+        "id": 45,
+        "image": "/images/sale15.jpg",
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "price": 9.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "An ancient Chinese text on strategy, leadership, and conflict. Though originally written for warfare, its lessons apply to business, negotiation, and personal challenges. Sun Tzu emphasizes planning, adaptability, and understanding human nature. The book remains a timeless guide for strategic thinking and decision-making."
+    },
+    {
+        "id": 46,
+        "image": "/images/sale16.jpg",
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "price": 10.99,
+        "rating": 4.8,
+        "availability": "Out of Stock",
+        "details": "A collection of personal writings by Roman Emperor Marcus Aurelius reflecting on life, discipline, and virtue. Rooted in Stoic philosophy, it offers timeless guidance on staying calm and wise under pressure. The book encourages self-control, humility, and resilience. It is widely considered one of the greatest philosophical works ever written."
+    },
+    {
+        "id": 47,
+        "image": "/images/sale17.jpg",
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "price": 16.99,
+        "rating": 4.9,
+        "availability": "In Stock",
+        "details": "A sweeping history of humankind from early evolution to the modern era. Harari explains how biology, culture, and technology shaped human civilization. He connects anthropology, economics, and psychology to show how societies developed. The book is thought-provoking, insightful, and challenges readers to rethink human history."
+    },
+    {
+        "id": 48,
+        "image": "/images/sale18.jpg",
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "price": 17.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "This book explores the future of humanity as technology advances beyond biological limits. Harari discusses artificial intelligence, biotechnology, and the quest for human enhancement. It raises ethical questions about power, inequality, and evolution. A visionary and unsettling look at what tomorrow may hold."
+    },
+    {
+        "id": 49,
+        "image": "/images/sale19.jpg",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "price": 14.49,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "Morgan Housel explains that financial success is driven more by behavior than knowledge. Through compelling stories and insights, he highlights how emotions, habits, and personal history shape financial decisions. The book helps readers develop smarter money habits and long-term thinking. It is simple, powerful, and relatable for all audiences."
+    },
+    {
+        "id": 50,
+        "image": "/images/sale20.jpg",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "price": 12.99,
+        "rating": 4.6,
+        "availability": "In Stock",
+        "details": "A personal finance classic that compares the money mindset of the author's 'rich dad' and 'poor dad'. It teaches the importance of financial education, investing, and building assets. The book encourages readers to think differently about wealth and income. Perfect for beginners who want to understand money."
+    },
+    {
+        "id": 51,
+        "image": "/images/sale21.jpg",
+        "title": "Thinking in Bets",
+        "author": "Annie Duke",
+        "price": 13.99,
+        "rating": 4.5,
+        "availability": "Out of Stock",
+        "details": "Written by a former poker champion, the book explains how decision-making is influenced by uncertainty and probability. Annie Duke teaches how to separate outcomes from the quality of decisions. By thinking in bets, individuals can make smarter choices and reduce emotional bias. Ideal for leaders, investors, and analysts."
+    },
+    {
+        "id": 52,
+        "image": "/images/sale22.jpg",
+        "title": "The Intelligent Investor",
+        "author": "Benjamin Graham",
+        "price": 15.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "A foundational book on value investing written by the mentor of Warren Buffett. Graham explains principles such as margin of safety and long-term investing. The book helps readers avoid emotional mistakes and build wealth through discipline and patience. It is considered one of the most important books in finance."
+    },
+    {
+        "id": 53,
+        "image": "/images/sale23.jpg",
+        "title": "Principles",
+        "author": "Ray Dalio",
+        "price": 16.49,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "Ray Dalio shares the life, work, and management principles that shaped his success as the founder of Bridgewater Associates. The book offers practical rules on decision-making, teamwork, and problem-solving. Dalio emphasizes radical transparency and learning from mistakes. It is a comprehensive guide to living and working effectively."
+    },
+    {
+        "id": 54,
+        "image": "/images/sale24.jpg",
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "price": 14.99,
+        "rating": 4.6,
+        "availability": "In Stock",
+        "details": "A powerful exploration of how undistracted concentration leads to meaningful productivity. Newport shows how modern distractions weaken our ability to work deeply. He shares strategies to build focus, reduce digital noise, and develop strong work habits. A must-read for students, professionals, and creatives."
+    },
+    {
+        "id": 55,
+        "image": "/images/sale25.jpg",
+        "title": "The Four Agreements",
+        "author": "Don Miguel Ruiz",
+        "price": 11.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "A spiritual guide based on ancient Toltec wisdom that outlines four principles for living a peaceful and free life. The agreements focus on honesty, emotional balance, and self-awareness. The book teaches readers how to break harmful beliefs and embrace personal transformation. Simple yet deeply impactful."
+    },
+    {
+        "id": 56,
+        "image": "/images/sale26.jpg",
+        "title": "Awaken the Giant Within",
+        "author": "Tony Robbins",
+        "price": 12.99,
+        "rating": 4.6,
+        "availability": "Out of Stock",
+        "details": "Tony Robbins reveals strategies to master emotions, relationships, finances, and life decisions. The book encourages readers to take control of their destiny through focused action and strong mindset. With motivational insights and practical tools, it helps unlock hidden potential. A classic guide to personal empowerment."
+    },
+    {
+        "id": 57,
+        "image": "/images/sale27.jpg",
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "price": 13.49,
+        "rating": 4.9,
+        "availability": "In Stock",
+        "details": "A deeply inspirational memoir where psychiatrist Viktor Frankl recounts his experiences in Nazi concentration camps. He explains how finding meaning in suffering helps people survive even the darkest moments. The book introduces logotherapy, a method focused on purpose and inner strength. It is one of the most profound books on life and resilience."
+    },
+    {
+        "id": 58,
+        "image": "/images/sale28.jpg",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "price": 15.99,
+        "rating": 4.8,
+        "availability": "In Stock",
+        "details": "Kahneman explores how human thinking is divided into impulsive fast thinking and rational slow thinking. He reveals the biases that mislead our judgments and decisions. The book is rich with research, experiments, and insights that reshape how we understand the mind. Essential reading for psychology enthusiasts."
+    },
+    {
+        "id": 59,
+        "image": "/images/sale29.jpg",
+        "title": "The Monk Who Sold His Ferrari",
+        "author": "Robin Sharma",
+        "price": 12.49,
+        "rating": 4.6,
+        "availability": "In Stock",
+        "details": "A spiritual fiction that tells the story of a successful lawyer who gives up his materialistic life in search of fulfillment. The book shares lessons on mindfulness, purpose, discipline, and balance. It inspires readers to appreciate life's deeper meaning. A motivating and uplifting read for self-growth."
+    },
+    {
+        "id": 60,
+        "image": "/images/sale30.jpg",
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "price": 14.99,
+        "rating": 4.7,
+        "availability": "In Stock",
+        "details": "A controversial yet insightful book explaining 48 strategies used throughout history to gain power and influence. Greene uses stories of rulers, politicians, and historical figures to illustrate each law. The book teaches psychological tactics and social dynamics. It is widely read by leaders, strategists, and thinkers."
+    }
+]
