@@ -1,21 +1,20 @@
-import { Route, Routes } from "react-router";
+import { Route, Routes } from "react-router-dom";
 import Home from "../allPages/Home";
 import BuyBooks from "../allPages/BuyBooks";
 import Genres from "../allPages/Genres";
 import OnlineReads from "../allPages/OnlineReads";
 
-
-const Main = () => {
-    return (
-        <div>
-            <Routes>
-                <Route path="/" element={<Home></Home>}></Route>
-                <Route path="/buybooks" element={<BuyBooks></BuyBooks>}></Route>
-                <Route path="/genres" element={<Genres></Genres>}></Route>
-                <Route path="/onlinereads" element={<OnlineReads></OnlineReads>}></Route>
-            </Routes>
-        </div>
-    );
+const Main = ({ addToCart }) => {
+  return (
+    <div >
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/buybooks" element={<BuyBooks addToCart={addToCart} />} />
+        <Route path="/genres" element={<Genres />} />
+        <Route path="/onlinereads" element={<OnlineReads />} />
+      </Routes>
+    </div>
+  );
 };
 
 export default Main;
