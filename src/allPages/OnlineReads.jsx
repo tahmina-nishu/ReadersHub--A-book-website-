@@ -5,7 +5,7 @@ const OnlineReads = () => {
     const [onlinebooks, setOnlinebooks] = useState([]);
     
         useEffect(() => {
-            fetch("/onlineBooks.json")   // FIXED PATH
+            fetch("/onlineBooks.json")   
                 .then((response) => response.json())
                 .then((data) => setOnlinebooks(data));
         }, []);
